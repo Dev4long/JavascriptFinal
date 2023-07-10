@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/JavascriptFinal/static/css/main.b7927d3e.css",
+    "main.js": "/JavascriptFinal/static/js/main.3f268648.js",
+    "static/media/graf4.jpeg": "/JavascriptFinal/static/media/graf4.fcf561795e8cbf68b3f6.jpeg",
+    "static/media/image5.jpeg": "/JavascriptFinal/static/media/image5.df06657ebf975a119ea7.jpeg",
+    "static/media/image2.jpeg": "/JavascriptFinal/static/media/image2.ee415d030c6a0750736c.jpeg",
+    "static/media/image3.jpeg": "/JavascriptFinal/static/media/image3.3883af2db26d69f08ce8.jpeg",
+    "static/media/graf2.jpeg": "/JavascriptFinal/static/media/graf2.ffa58d7e15196fb059a7.jpeg",
+    "static/media/image1.jpeg": "/JavascriptFinal/static/media/image1.283bfdedbe8c02932331.jpeg",
+    "static/media/graf3.jpeg": "/JavascriptFinal/static/media/graf3.7efd259d55bb7345ad44.jpeg",
+    "static/media/graf5.jpeg": "/JavascriptFinal/static/media/graf5.75597efc4b4845a40d72.jpeg",
+    "static/media/graf1.jpeg": "/JavascriptFinal/static/media/graf1.7f26bcf80c9cd6e956a6.jpeg",
+    "static/media/image4.jpeg": "/JavascriptFinal/static/media/image4.7207fe800bb228e952af.jpeg",
+    "static/media/Debrosee-ALPnL.ttf": "/JavascriptFinal/static/media/Debrosee-ALPnL.a5d65bb84e1f3a691461.ttf",
+    "static/media/Urban Heroes 2.ttf": "/JavascriptFinal/static/media/Urban Heroes 2.ac6f53d1e055815fa0d7.ttf",
+    "index.html": "/JavascriptFinal/index.html",
+    "main.b7927d3e.css.map": "/JavascriptFinal/static/css/main.b7927d3e.css.map",
+    "main.3f268648.js.map": "/JavascriptFinal/static/js/main.3f268648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7927d3e.css",
+    "static/js/main.3f268648.js"
+  ]
+}
