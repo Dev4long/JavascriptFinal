@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+  font-family: 'DebroseeFont';
+}
+
+@font-face {
+  font-family: 'DebroseeFont';
+  src: url("./fonts/Debrosee-ALPnL.ttf") format('truetype');
+}
+
+
+.carouselContainer{
+  width: 60%;
+  height: auto;
+  background-color: black;
+  position: absolute; top: 0; left: 0;
+  padding-top: 50px;
+}
+
+.carousel{
+  width: 750px;
+  max-height: 60%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: 'D5Font';
+}
+
+.header{
+  font-family: 'D5font';
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+.formContainer{
+  Width:40%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  position: absolute; top: 0; right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@font-face {
+  font-family: 'D5Font';
+  src: url("./fonts/Urban Heroes 2.ttf") format('truetype');
+}
+
+.D5Header{
+  font-family: "D5Font";
+  font-size: 20vw;
+}
+
+.LoginForm{
+  margin: 200px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: 'D5Font';
+}
+
+@media (max-width: 520px) {
+  .carousel {
+    background: white;
+  }
+  .D5Header {
+    font-size: 100px;
+  }
+  .D5Logo{
+    display: none;
+  }
+  .formContainer{
+  Width:100%;
+  height:100%;
+  }
+}
+
+.topBanner{
+  display: none;
+}
+
+
+@media only screen and (max-width: 520px) {
+  .topBanner {
+      position: absolute; top: 0;
+      font-family: "d5Font";
+      background-color: black;
+      color:white;
+      width: 100%;
+      height: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 50px;
+  }
+}
+
+.star {
+  position: absolute;
+  background-color: white;
+  border-radius: 99%;
+  width: 6px;
+  height: 6px;
+  animation: twinkle 2s infinite;
+}
+
+@keyframes twinkle {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
