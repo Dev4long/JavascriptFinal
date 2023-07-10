@@ -1,14 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import './Carousel.css'
-import image1 from './pics/0-1.jpeg'
-import image2 from './pics/0-1 (1).jpeg'
-import image3 from './pics/0-1 (2).jpeg'
+import graf1 from './pics/graf1.jpeg'
+import graf2 from './pics/graf2.jpeg'
+import graf3 from './pics/graf3.jpeg'
+import graf4 from './pics/graf4.jpeg'
+import graf5 from './pics/graf5.jpeg'
 
 const images = [
-    image1,
-    image2,
-    image3,
-  // Add more image URLs here
+    graf1,
+    graf2,
+    graf3,
+    graf4,
+    graf5
 ];
 
 function Carousel() {

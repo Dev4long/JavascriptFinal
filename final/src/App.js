@@ -126,13 +126,13 @@ function App() {
       <div className="star" style={{ bottom: '2%', left: '3%' }}></div>
       <div className="star" style={{ top: '5%', left: '97%' }}></div>
       <div className="star" style={{ top: '5%', left: '3%' }}></div>
-      <h1>NATURE'S CALLING</h1>
+      <h1>GRAF'S CALLING</h1>
       <Carousel />
       </div>
       </div>
 
       <div className="formContainer">
-        <div className="topBanner">D5</div>
+        <div className="topBanner">GRAF'S CALLING</div>
 
         {!signUp ? (
           <div className="LoginForm">

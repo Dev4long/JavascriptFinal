@@ -5,12 +5,12 @@ import "./HomePage.css"
 
 const HomePage = ({ goBack }) => {
   return (
-    <div className='container'>
+    <div className='container' style={{fontFamily:"DebroseeFont"}}>
       <div className = "homePage">
-      <h1>Home Page</h1>
-      <p>Welcome to the home page!</p>
+      <h1>WELCOME</h1>
+      <p>Check Out Our Gallery!</p>
       <Button variant="contained" color="secondary"  type="submit" onClick={goBack}>
-        Go Back
+        Go Back TO Login
       </Button>
       </div>
     <div className="homePageContainer">
