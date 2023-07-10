@@ -1,0 +1,23 @@
+.homePageContainer{
+    background: #151515;
+    color: #fff;
+    overflow: hidden;
+    padding-top: 200px;
+    flex: 1;
+    max-width: 100%;
+}
+
+.homePage{
+    background: #151515;
+    color: #fff;
+    /* padding-top: 200px; */
+    text-align: center;
+   
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    
+}
